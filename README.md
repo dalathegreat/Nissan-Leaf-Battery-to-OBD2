@@ -3,6 +3,8 @@ An opensource solution for connecting OBD2 straight to a Nissan Leaf battery. Ve
 
 Please note, there are two versions of the 'Yazaki' connector found on Nissan Leaf batteries. This connector is refered to as the B24 connector in service manuals. The 2011-2012 version uses a 21-pin, and the 2013-2019 uses a 36-pin connector. At this stage, the 3d-printable files are only available for the 36-pin connector. See the documentation folder for the schematic differences
 
+![alt text](https://github.com/dalathegreat/Nissan-Leaf-Battery-to-OBD2/blob/master/Documentation/2013%20STL%20file.PNG)
+
 # How to make your own
 It's really easy to make, you'll need the following items:
 1. 3d-printed 'B24' connector, found in this repository
