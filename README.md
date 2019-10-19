@@ -8,7 +8,7 @@ Please note, there are two versions of the 'Yazaki' connector found on Nissan Le
 # How to make your own
 It's really easy to make, you'll need the following items:
 1. 3d-printed 'B24' connector, found in this repository
-2. Dupont style connectors (found in most arduino kits or old PCs) [1x2, 1x3, 1x4]
+2. Dupont style connectors (found in most arduino kits or old PCs) [1x2, 1x3, 1x4] [Here's what they look like](https://github.com/dalathegreat/Nissan-Leaf-Battery-to-OBD2/blob/master/Documentation/WhatDoDupontCablesLookLike.PNG)
 3. Superglue / Epoxy
 4. An OBD2 port along with the pins (can be bought new or salvaged from a scrap car)
 5. Wires to connect it all
