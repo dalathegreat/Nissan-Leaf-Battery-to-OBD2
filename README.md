@@ -23,7 +23,11 @@ To start of with, gather all the parts needed. Take the correct B24 connector fr
 To read data from the pack, plug in an OBD2 bluetooth dongle to the port and fire up Leafspy. Go into the settings menu, and switch to 'BMS only' mode. This can be found where you select your model year, scroll up the list and where 2010 should be there is a 'BMS only' option.
 
 If you did everything correctly, you schould end up with this.
+![alt text](https://github.com/dalathegreat/Nissan-Leaf-Battery-to-OBD2/blob/master/Documentation/BatterySniffer.jpg)
+
 ![alt text](https://github.com/dalathegreat/Nissan-Leaf-Battery-to-OBD2/blob/master/Documentation/LeafSpy%20in%20BMS%20only%20mode.jpg)
+
+
 
 # Schematic
 Here's the schematic for how to wire up the 2013+ connector to an OBD2 port
