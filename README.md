@@ -12,7 +12,7 @@ Please note, there are two versions of the 'Yazaki' connector found on Nissan Le
 
 # How to make your own
 It's really easy to make, you'll need the following items:
-1. 3d-printed 'B24' connector, found in this repository
+1. 3d-printed 'B24' connector, found in this repository (for those without a 3d-printer, a ready to go 2013-2019 36 pin connector is available here: https://aliexpress.com/item/1005004180391674.html => in this case you don't need the items needed described in 2. and 3.
 2. Dupont style connectors (found in most arduino kits or old PCs) [2013+ use 1x2, 1x3, 1x4, or 2011-2012 version 1x1 only] [Here's what they look like](Documentation/WhatDoDupontCablesLookLike.PNG)
 3. Superglue / Epoxy
 4. An OBD2 port along with the pins (can be bought new or salvaged from a scrap car)
