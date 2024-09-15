@@ -9,6 +9,10 @@ Please note, there are two versions of the 'Yazaki' connector found on Nissan Le
 ## 2011-2012
 ![2011-2012](Documentation/2011%20STL%20file%20with%20tabs.png)
 
+A proper Yazaki 22-pin as reference:
+![image](https://github.com/user-attachments/assets/f7ab3e50-ddfc-4927-bd08-cea5e2f2bc67)
+
+
 
 # How to make your own
 It's really easy to make, you'll need the following items:
